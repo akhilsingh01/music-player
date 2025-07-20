@@ -12,8 +12,8 @@ A simple music player built using **JavaScript**, with HTML and CSS structure pr
 
 ## 🚀 Live Demo
 
-You can play the game directly here:
-👉 [Play the Game](https://akhilsingh01.github.io/music-player/)
+You can use the music player directly here:
+👉 [Use the music player](https://akhilsingh01.github.io/music-player/)
 
 ### or run the project locally:
 
